@@ -1,0 +1,6 @@
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\bin\Debug\NetworkingLibrary.dll
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\bin\Debug\NetworkingLibrary.pdb
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\obj\Debug\NetworkingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\obj\Debug\NetworkingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\obj\Debug\NetworkingLibrary.dll
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\NetworkingLibrary\obj\Debug\NetworkingLibrary.pdb

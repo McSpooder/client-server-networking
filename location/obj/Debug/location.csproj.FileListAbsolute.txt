@@ -1,0 +1,12 @@
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\location.exe.config
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\location.exe
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\location.pdb
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\obj\Debug\location.exe
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\obj\Debug\location.pdb
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\WindowsFormsApp.exe
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\NetworkingLibrary.dll
+C:\Users\Spooder Desktop\Documents\Education\Uni\Labs\NetworkingSVN\ClientApplication\location\bin\Debug\NetworkingLibrary.pdb
